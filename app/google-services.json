@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "516197848102",
+    "firebase_url": "https://second-proyect-77f6a.firebaseio.com",
+    "project_id": "second-proyect-77f6a",
+    "storage_bucket": "second-proyect-77f6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516197848102:android:756b7c69ea5a269a4042e7",
+        "android_client_info": {
+          "package_name": "com.desing.bluebank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516197848102-g9gpldl0jtmlr7fqpjq4te2eevj0b4q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_-0n5ZzuyRBX590PrikZmqER0RR8V5cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516197848102-g9gpldl0jtmlr7fqpjq4te2eevj0b4q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
